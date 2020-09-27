@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9F7F53C1-3089-485B-AF97-8F399067EC3A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56BA644E-036E-4A35-A9CD-1CC79A1FECA8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Examen/Views/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "NextViewActionButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "56BA644E-036E-4A35-A9CD-1CC79A1FECA8 - 37141af5253e8159"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Examen.MainViewController.NextViewActionButton(Any) -&gt; ()"
+                  moduleName = "Examen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroantoniovazquezrodriguez/Desktop/Examen/Examen/Views/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "598">
+               </Location>
+               <Location
+                  uuid = "56BA644E-036E-4A35-A9CD-1CC79A1FECA8 - 1186cb600000e58d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Examen.MainViewModelItem) -&gt; Examen.MainModel in Examen.MainViewController.NextViewActionButton(Any) -&gt; ()"
+                  moduleName = "Examen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroantoniovazquezrodriguez/Desktop/Examen/Examen/Views/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "847A25AC-8D50-4A6E-A7A6-F1519E68372E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Examen/ModelViews/OptionsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.DebuggerCommand">
+                  <ActionContent
+                     consoleCommand = "po items">
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+            <Locations>
+               <Location
+                  uuid = "847A25AC-8D50-4A6E-A7A6-F1519E68372E - e0e5d5f6a62b6468"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Examen.OptionsViewModel.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Examen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroantoniovazquezrodriguez/Documents/BusquedaTrabajoApps/TestBranchBit/Examen/ModelViews/OptionsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "209">
+               </Location>
+               <Location
+                  uuid = "847A25AC-8D50-4A6E-A7A6-F1519E68372E - e0e5d5f6a62b6468"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Examen.OptionsViewModel.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Examen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroantoniovazquezrodriguez/Documents/BusquedaTrabajoApps/TestBranchBit/Examen/ModelViews/OptionsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "497">
+               </Location>
+               <Location
+                  uuid = "847A25AC-8D50-4A6E-A7A6-F1519E68372E - e0e5d5f6a62b6468"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Examen.OptionsViewModel.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Examen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroantoniovazquezrodriguez/Documents/BusquedaTrabajoApps/TestBranchBit/Examen/ModelViews/OptionsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "1203">
+               </Location>
+               <Location
+                  uuid = "847A25AC-8D50-4A6E-A7A6-F1519E68372E - e0e5d5f6a62b6468"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Examen.OptionsViewModel.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Examen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroantoniovazquezrodriguez/Documents/BusquedaTrabajoApps/TestBranchBit/Examen/ModelViews/OptionsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "1909">
+               </Location>
+               <Location
+                  uuid = "847A25AC-8D50-4A6E-A7A6-F1519E68372E - e0e5d5f6a62b6468"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Examen.OptionsViewModel.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Examen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroantoniovazquezrodriguez/Documents/BusquedaTrabajoApps/TestBranchBit/Examen/ModelViews/OptionsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "2615">
+               </Location>
+               <Location
+                  uuid = "847A25AC-8D50-4A6E-A7A6-F1519E68372E - e0e5d5f6a62b6468"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Examen.OptionsViewModel.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Examen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroantoniovazquezrodriguez/Documents/BusquedaTrabajoApps/TestBranchBit/Examen/ModelViews/OptionsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "3321">
+               </Location>
+               <Location
+                  uuid = "847A25AC-8D50-4A6E-A7A6-F1519E68372E - e0e5d5f6a62b6468"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Examen.OptionsViewModel.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Examen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroantoniovazquezrodriguez/Documents/BusquedaTrabajoApps/TestBranchBit/Examen/ModelViews/OptionsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "4033">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
